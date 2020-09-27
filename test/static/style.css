@@ -1,0 +1,12 @@
+.container {
+    padding: 60px;
+}
+
+.mid {
+    width: 50%;
+    margin: auto;
+}
+
+.d-inline {
+    display: inline-block
+}

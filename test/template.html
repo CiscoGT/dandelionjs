@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{locals.title}}</title>
+    <link rel="stylesheet" href="/_bundle/app.css">
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body app-mode="ajax">
+    <Navbar/> 
+    <app id="root"></app>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/_bundle/app.js"></script>
+</body>
+</html>

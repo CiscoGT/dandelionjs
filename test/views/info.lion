@@ -1,0 +1,7 @@
+<div class="container">
+    <b>Node version:</b> {{ process.version }} <br/>
+    <b>V8 version:</b> {{ process.versions.v8 }} <br/>
+    <b>System:</b> {{ os.version() }} <br/>
+    <b>Arch:</b> {{ process.arch }} <br/>
+    <b>CPU:</b> {{ os.cpus()[0].model }} <br/>
+</div>

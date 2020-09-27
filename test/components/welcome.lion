@@ -1,0 +1,28 @@
+<html>
+    <img class="d-inline" src="https://static.thenounproject.com/png/641028-200.png">
+
+   <div class="d-inline" style="width: 70%;">
+      <h2>Dandelion Framework</h2>
+      <p>
+         Build Frontend applications mixing reactive components, templates, code blocks and SSR technology (Server side rendering)
+      </p>
+      <p>
+        Dandelion is an SSR framework for SPA and PWA development that includes Hot Reload, style management and component-separated scripts and runs under Express.js
+      </p>
+
+      <a class="btn" href="/get-stared">Get stared</a>
+      <a class="btn" href="https://github.com/sammwyy/dandelionjs">Source Code</a>
+   </div>
+</html>
+
+<style>
+    .btn {
+        width: 100px;
+        display: inline-block;
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #222;
+        color: white;
+        text-decoration: none;
+    }
+</style>

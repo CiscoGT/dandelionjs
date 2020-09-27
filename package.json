@@ -1,0 +1,25 @@
+{
+  "name": "dandelionjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chokidar": "^3.4.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "node-html-parser": "^1.2.21",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "watch": "nodemon ./test/index.test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

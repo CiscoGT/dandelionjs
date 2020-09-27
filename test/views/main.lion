@@ -1,0 +1,4 @@
+<div class="container mid">
+   <Welcome/>
+   <Features/>
+</div>

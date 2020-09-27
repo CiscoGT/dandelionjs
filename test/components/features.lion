@@ -1,0 +1,21 @@
+<html>
+    <div class="features">
+        <h2>Powered by</h2>
+       <img class="dev-icon" src="https://cdn.onlinewebfonts.com/svg/img_189697.png">
+        <img class="dev-icon" src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1k7p/364f9e87d38546dd48a6fd75c5c92c10/SOCKETIOICON.gif">
+        <img class="dev-icon" src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png">
+    </div>
+
+</html>
+
+<style>
+    .features {
+        margin-top: 20%; 
+        text-align: center;
+    }
+
+    .dev-icon {
+        width: 128px;
+        padding: 10px 40px;
+    }
+</style>
